@@ -1,5 +1,5 @@
+// Week 3 -Employee Salary Calculator
 #include <stdio.h>
-
 int main(){
     
     float basicSalary;
